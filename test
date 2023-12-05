@@ -2,14 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta meta http-equiv="REFRESH" content="0;url=https://www.wanikani.com/dashboard">
   <script src="https://github.com/Varr1ck/scripts/blob/main/KanjiReadingSkipper-2023-12-04.user.js"></script>
-  <script>
-    (function() {
-      // Example: Redirect to a target URL after script execution
-      window.location.href = 'https://www.wanikani.com/dashboard';
-    })();
-  </script>
 </head>
 <body></body>
 </html>
